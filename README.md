@@ -14,3 +14,5 @@ For streamlining a new development environment setup.
   ```
     touch .bashrc
   ```
+- [ ] install `nvm`
+- [ ] install `yarn`
