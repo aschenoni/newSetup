@@ -7,13 +7,16 @@ For streamlining a new development environment setup.
 - [ ] Download git
 - [ ] Download Hyper
   - [ ] setup hyper config
+  ```
+      curl https://raw.githubusercontent.com/aschenoni/newSetup/main/.hyper.js >> $APPDDATA/Hyper/.hyper.js
+  ```
 - [ ] Download vs code
 - [ ] [Setup ssh keys](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for github
 - [ ] Download putty
 - [ ] Download winscp
 - [ ] Add .bashrc
   ```
-    touch .bashrc
+    curl https://raw.githubusercontent.com/aschenoni/newSetup/main/.bashrc >> ~/.bashrc
   ```
 - [ ] install `nvm`
 - [ ] install `yarn`
