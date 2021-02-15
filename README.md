@@ -4,10 +4,10 @@ For streamlining a new development environment setup.
 ## Checklist
 
 - [ ] Download (firefox)[https://www.mozilla.org/en-US/firefox/new/]
-- [ ] Download vs code
+- [ ] Download git
 - [ ] Download Hyper
   - [ ] setup hyper config
-- [ ] Download git
+- [ ] Download vs code
 - [ ] [Setup ssh keys](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for github
 - [ ] Download putty
 - [ ] Download winscp
@@ -17,3 +17,13 @@ For streamlining a new development environment setup.
   ```
 - [ ] install `nvm`
 - [ ] install `yarn`
+- [ ] install docker desktop
+  - [ ] install WSL
+- [ ] install autohotkey
+  - [ ] ensure binding available for home / end keys if not standard on keyboard
+
+### other possible steps
+
+- setup global `.gitignore`
+- setup `.yarnrc`
+- download github cli
