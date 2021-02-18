@@ -24,7 +24,7 @@ For streamlining a new development environment setup.
   - [ ] install WSL
 - [ ] install autohotkey
   - [ ] ensure binding available for home / end keys if not standard on keyboard
-
+- [ ] set file defaults for .js to be vs code
 ### other possible steps
 
 - setup global `.gitignore`
